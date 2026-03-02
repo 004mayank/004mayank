@@ -10,11 +10,7 @@ I design AI-native product systems, prompt frameworks, and evaluation workflows 
 
 ---
 
-## What I’m Building
-
-<p align="center">
-  <img src="https://media.giphy.com/media/7E8lI6TkLrvvAcPXso/giphy.gif" width="450"/>
-</p>
+## What I’m Building Currently
 
 
 ### AI PM Prompt Playbook
@@ -28,53 +24,6 @@ Includes:
 - Real PM workflows
 
 → Focus: Behavior design, prompt ops, AI evaluation systems
-
----
-
-### Product Teardowns
-Real-world product breakdowns written from a Product Manager’s lens.
-
-Focus areas:
-- UX decisions
-- Monetization strategy
-- System thinking
-- Product trade-offs
-- Growth loops
-
----
-
-### Product PRD Library
-Structured Product Requirement Documents for products we use daily.
-
-Designed to:
-- Reverse-engineer product thinking
-- Improve PM clarity
-- Build strong PRD muscle
-
----
-
-### Product Systems Explained
-
-Deep dives into how modern tech systems actually work.
-
-Topics include:
-- Backend flows
-- Infra decisions
-- Data movement
-- Architecture thinking
-
-Built for curious PMs who want technical depth.
-
----
-
-## Current Focus
-
-- Prompt engineering systems
-- AI evaluation frameworks
-- Token economics & cost control
-- AI PM interview preparation
-- Building AI PM Workbench (PromptOps Lab)
-
 ---
 
 ## Outside GitHub
