@@ -4,8 +4,6 @@
   <img src="https://media.giphy.com/media/pALw8LdftuqAw/giphy.gif" width="400"/>
 </p>
 
-AI Product Manager building intelligent systems at the intersection of product, data, and LLMs.
-
 I design AI-native product systems, prompt frameworks, and evaluation workflows that make LLM behavior reliable, cost-aware, and production-ready.
 
 ---
