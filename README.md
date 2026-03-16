@@ -7,7 +7,7 @@
 I design AI-native product systems, prompt frameworks, and evaluation workflows that make LLM behavior reliable, cost-aware, and production-ready.
 
 ---
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=004mayank&theme=tokyonight)
 ## What I’m Building Currently
 
 
