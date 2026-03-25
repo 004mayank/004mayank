@@ -30,7 +30,7 @@ Includes:
 - LinkedIn: https://linkedin.com/in/mayank-malviya-pm
 - YouTube: https://youtube.com/@wtf-product
 - Substack: https://substack.com/@mayankmalviya
-- Instagram: https://instagram.com/wtfproduct_
+- Instagram: https://www.instagram.com/wtfproduct_/
 
 ---
 
